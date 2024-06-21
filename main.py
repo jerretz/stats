@@ -11,7 +11,7 @@ def main():
     window.setWindowTitle("Universal Interface")
 
     button = QPushButton(window)
-    button.setText("Hhh")
+    button.setText("hHhh")
     button.move(100, 70)
 
     layout = QVBoxLayout()
